@@ -55,7 +55,7 @@ Halo! Saya **Muslih**, seorang fotografer hobi yang gemar mengeksplorasi **alam,
 
 ### Teater UKM Teater Unhas
 
-![teater](/assets/teater2.jpg){: .w-75 .shadow .rounded-10 }
+![teater](/assets/ter.jpg){: .w-75 .shadow .rounded-10 }
 
 _ruang imajinasi yang hidup, tempat panggung dan cahaya bersatu membentuk dunia baru. Setiap adegan bukan hanya pertunjukan, melainkan cermin dari keresahan, harapan, dan kisah yang ingin disuarakan._
 
