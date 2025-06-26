@@ -1,15 +1,15 @@
 ---
-title: Portofolio Fotografi Muslih
+title: Pameran Pojok UKM Fotografi Unhas
 description: Koleksi hasil karya dan perjalanan fotografi saya, dari lensa ke cerita.
 author: muslih
-date: 2024-04-20 11:33:00 +0800
-categories: [Fotografi, Portofolio]
+date: 2024-09-19 09:00:00 +0800
+categories: [Fotografi,Pameran, Portofolio]
 tags: [Fotografi, Kamera, Lensa, Alam, Portrait, Street]
-pin: true
+pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/cover-foto.jpg
+  path: /assets/teater1.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0...
   alt: Cover galeri fotografi Muslih
 ---
@@ -17,9 +17,10 @@ image:
 # 📸 Portofolio Fotografi Muslih
 {: .mt-4 .mb-2 }
 
-> Kumpulan cerita visual dari balik lensa — menangkap momen, cahaya, dan emosi melalui fotografi.
+> Kumpulan cerita visual dari balik lensa — menangkap momen, cahaya, dan emosi melalui fotografi.  
+Karya-karya ini dipamerkan dalam Pojok UKM Fotografi Unhas, di mana setiap foto menjadi jendela kecil bagi pengunjung untuk melihat dunia melalui mata kami. Pameran itu bukan hanya ajang berbagi karya, tapi juga ruang apresiasi, refleksi, dan tumbuhnya semangat kolektif dalam dunia visual.  
+Baca liputan lengkapnya di [Berita Pameran Pojok Unhas](https://www.ebsfmunhas.com/ukm-fotografi-unhas-sulap-realita-jadi-seni-abadi-pada-pameran-pojok-xxxiii/).
 
----
 
 ## 🎯 Tentang Saya
 
@@ -34,7 +35,7 @@ Halo! Saya **Muslih**, seorang fotografer hobi yang gemar mengeksplorasi **alam,
 | Kamera Utama    | Sony Alpha A6400                     | Kamera mirrorless APS-C, ringan dan tajam  |
 | Lensa Prime     | Sony E 50mm f/1.8 OSS                 | Cocok untuk portrait dengan bokeh lembut   |
 | Wide Lens       | Sigma 16mm f/1.4 DC DN (E-Mount)     | Untuk landscape, street, dan video         |
-| Aksesori        | Tripod, ND Filter, Shoulder Strap    | Mendukung stabilitas dan eksposur optimal  |
+| Aksesori        | ND Filter, Shoulder Strap            | Mendukung stabilitas dan eksposur optimal  |
 
 
 ## 🎨 Gaya Fotografi Saya
@@ -52,36 +53,26 @@ Halo! Saya **Muslih**, seorang fotografer hobi yang gemar mengeksplorasi **alam,
 
 ## 📷 Galeri Foto
 
-### Pagi di Gunung Bromo
+### Teater UKM Teater Unhas
 
-![Bromo Sunrise](/assets/galeri/bromo.jpg){: .w-75 .shadow .rounded-10 }
+![teater](/assets/teater2.jpg){: .w-75 .shadow .rounded-10 }
 
-_Perspektif hangat dari bibir kawah saat matahari mulai naik._
-
----
-
-### Jalan Malioboro Saat Hujan
-
-![Malioboro Rain](/assets/galeri/malioboro.jpg){: .w-75 .shadow .rounded-10 }
-
-_Refleksi cahaya lampu jalan dan kehidupan malam._
+_ruang imajinasi yang hidup, tempat panggung dan cahaya bersatu membentuk dunia baru. Setiap adegan bukan hanya pertunjukan, melainkan cermin dari keresahan, harapan, dan kisah yang ingin disuarakan._
 
 ---
 
-### Potret Hitam Putih
+### Demonstrasi Mahasiswa 
 
-![BW Portrait](/assets/galeri/portrait-bw.jpg){: .w-50 .shadow .rounded-10 }
+![demo](/assets/demo.jpg){: .w-75 .shadow .rounded-10 }
 
-_Seseorang yang sedang termenung di kafe kecil, dalam kontras hitam putih._
+_riuh suara, kepalan tangan, dan spanduk yang terbentang menjadi simbol perjuangan. Di tengah terik dan lalu lintas kota yang padat, semangat perlawanan tumbuh dari aspal panas. Kamera menangkap bukan hanya kerumunan, tapi juga ekspresi wajah yang menyimpan keresahan dan harapan akan perubahan. Momen ini adalah potret keberanian, ketika suara-suara kecil berani menggema di ruang publik.._
 
 ---
 
-## 🗓️ Proyek Fotografi
+### Potret Kedekatan Ibu dan Anak
 
-```mermaid
-gantt
-  title Timeline Proyek Foto Pribadi
-  Persiapan :a, 2024-03-01, 2d
-  Hunting   :b, after a, 4d
-  Editing   :c, after b, 3d
-  Publish   :d, after c, 1d
+![ibu dan anak](/assets/ibu.jpg){: .w-75 .shadow .rounded-10 }
+
+_sang ibu dengan sabar mengikat rambut anaknya, diiringi hembusan angin laut dan debur ombak. Sebuah potret kasih yang sederhana namun begitu hangat.._
+
+---
